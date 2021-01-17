@@ -27,7 +27,7 @@ def parameter(user_id):
     else:
         return 'Not allowed method'
 
-    return user_id
+
 
 app.run()
 
